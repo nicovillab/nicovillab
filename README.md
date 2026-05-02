@@ -1,13 +1,14 @@
 <div align="center">
-
+<img width="1200" height="300" alt="READMEpng" src="https://github.com/user-attachments/assets/7b87d768-90d2-4ef4-873c-2c038cd4734b" />
 </div>
 
-## <img src="./images/bow.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
+## <img src="./images/headphones.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
 <img src="./images/cactus.svg" height="20" style="vertical-align: middle;" /> &nbsp; latino-american boy from san jose, costa rica<br />
-<img src="./images/mouse.svg" height="20" style="vertical-align: middle;" /> &nbsp; computer science @ university of kansas<br />
+<img src="./images/terminal.svg" height="20" style="vertical-align: middle;" /> &nbsp; computer science @ university of kansas<br />
 <img src="./images/camera.svg" height="20" style="vertical-align: middle;" /> &nbsp; tech/lifestyle/art 
 
-## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; fav repos
+## <img src="./images/closed![Uploading READMEpng.png…]()
+folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; fav repos
 
 | name | description |
 |------|---------------|
