@@ -17,6 +17,8 @@
 | [`after-effects-expression-library`](https://github.com/nicovillab/after-effects-expression-library) | some of my favorite expressions that I use in my after effects edits! | 
 
 ## <img src="./images/hierarchy.svg" height="24" style="vertical-align: middle;" /> &nbsp; my stack
+creative: adobe suite (after effects, premiere pro, photoshop, lightroom, media encoder), blender, touchdesigner, cinema 4d, daz 3d
+technical: python, swift, lua, javascript, html, css, vhdl 
 
 ## <img src="./images/wink.svg" height="24" style="vertical-align: middle;" /> &nbsp; kudos
 
@@ -27,4 +29,4 @@ all my repos are open to copy, fork, and share. tag me if you make a video with 
 
 ## <img src="./images/care.svg" height="24" style="vertical-align: middle;" /> &nbsp; credit 
 
-Thank u @cocohernandez for this readme!! :) 
+thank u @cocohernandez! :) 
