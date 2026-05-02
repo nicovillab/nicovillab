@@ -16,9 +16,15 @@
 | [`network-with-nico`](https://github.com/nicovillab/network-with-nico) | a little collection of all my projects, art, and more! feel free to check it out. |
 | [`after-effects-expression-library`](https://github.com/nicovillab/after-effects-expression-library) | some of my favorite expressions that I use in my after effects edits! | 
 
+## <img src="./images/hierarchy.svg" height="24" style="vertical-align: middle;" /> &nbsp; my stack
+
 ## <img src="./images/wink.svg" height="24" style="vertical-align: middle;" /> &nbsp; kudos
 
 all my repos are open to copy, fork, and share. tag me if you make a video with my code, and drop a credit in the file if you remix it into your own project. 
 
 <img src="./images/tiktok.svg" height="20" style="vertical-align: middle;" /> &nbsp; tiktok: [`@nicovillab_`](https://tiktok.com/@nicovillab_) <br />
 <img src="./images/instagram.svg" height="20" style="vertical-align: middle;" /> &nbsp; instagram: [`@nicovillab`](https://instagram.com/nicovillab)
+
+## <img src="./images/care.svg" height="24" style="vertical-align: middle;" /> &nbsp; credit 
+
+Thank u @cocohernandez for this readme!! :) 
