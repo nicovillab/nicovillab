@@ -1,7 +1,7 @@
 <div align="center">
-<img width="1200" height="300" alt="READMEpng" src="https://github.com/user-attachments/assets/7b87d768-90d2-4ef4-873c-2c038cd4734b" />
+<img width="100%" alt="READMEpng" src="https://github.com/user-attachments/assets/7b87d768-90d2-4ef4-873c-2c038cd4734b" />
 
-  *learnm more about me!*
+  *learn more about me!*
 </div>
 
 ## <img src="./images/headphones.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
