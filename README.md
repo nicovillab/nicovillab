@@ -1,9 +1,3 @@
-<div align="center">
-<img width="100%" alt="READMEpng" src="https://github.com/user-attachments/assets/7b87d768-90d2-4ef4-873c-2c038cd4734b" />
-
-  *learn more about me!*
-</div>
-
 ## <img src="./images/headphones.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
 <img src="./images/cactus.svg" height="20" style="vertical-align: middle;" /> &nbsp; latino-american boy from san jose, costa rica<br />
 <img src="./images/terminal.svg" height="20" style="vertical-align: middle;" /> &nbsp; computer science @ university of kansas (c/o '29)<br />
