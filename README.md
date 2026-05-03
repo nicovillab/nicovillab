@@ -1,7 +1,7 @@
 ## <img src="./images/headphones.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
 <img src="./images/cactus.svg" height="20" style="vertical-align: middle;" /> &nbsp; latino-american boy from san jose, costa rica<br />
 <img src="./images/terminal.svg" height="20" style="vertical-align: middle;" /> &nbsp; computer science @ university of kansas (c/o '29)<br />
-<img src="./images/camera.svg" height="20" style="vertical-align: middle;" /> &nbsp; tech/lifestyle/art 
+<img src="./images/camera.svg" height="20" style="vertical-align: middle;" /> &nbsp; tech/art 
 
 ## <img src="./images/closedfolder.svg" height="24" style="vertical-align: middle;" /> &nbsp; my repos
 
