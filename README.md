@@ -1,3 +1,13 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a014e3aa-e721-4b79-a286-76722149a009" />
+    <img alt="README banner" src="https://github.com/user-attachments/assets/a014e3aa-e721-4b79-a286-76722149a009" />
+  </picture>
+
+<p align="center"> 
+  <em>some info about me!</em>
+</p>
+
 ## <img src="./images/headphones.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
 <img src="./images/cactus.svg" height="20" style="vertical-align: middle;" /> &nbsp; latino-american boy from san jose, costa rica<br />
 <img src="./images/terminal.svg" height="20" style="vertical-align: middle;" /> &nbsp; computer science @ university of kansas (c/o '29)<br />
