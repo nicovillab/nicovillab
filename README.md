@@ -5,7 +5,7 @@
   </picture>
 
 <p align="center"> 
-  <em>some info about me!</em>
+  <em>get to know me!</em>
 </p>
 
 ## <img src="./images/headphones.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
