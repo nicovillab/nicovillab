@@ -18,7 +18,6 @@
 | name | description |
 |------|---------------|
 | [`network-with-nico`](https://github.com/nicovillab/network-with-nico) | a little collection of all my projects, art, and more! feel free to check it out. |
-| [`after-effects-expression-library`](https://github.com/nicovillab/after-effects-expression-library) | some of my favorite expressions that I use in my after effects edits! | 
 
 ## <img src="./images/hierarchy.svg" height="24" style="vertical-align: middle;" /> &nbsp; my stack
 creative: adobe suite (after effects, premiere pro, photoshop, lightroom, media encoder), blender, touchdesigner, cinema 4d, daz 3d
